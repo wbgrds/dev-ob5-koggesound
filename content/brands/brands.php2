@@ -1,0 +1,12 @@
+<section id="brands" class="brands ">
+	<div class="container">
+	        <div class="row multi-columns-row">
+		 	<div class="col-sm-2 col-md-2 col-lg-2"><img src="/content/brands/brand1.png" class="img-responsive center-block"></div>
+		 	<div class="col-sm-2 col-md-2 col-lg-2"><img src="/content/brands/brand2.png" class="img-responsive center-block"></div>
+		 	<div class="col-sm-2 col-md-2 col-lg-2"><img src="/content/brands/brand3.png" class="img-responsive center-block"></div>
+			<div class="col-sm-2 col-md-2 col-lg-2"><img src="/content/brands/brand6.png" class="img-responsive center-block"></div>            	
+		 	<div class="col-sm-2 col-md-2 col-lg-2"><img src="/content/brands/brand4.png" class="img-responsive center-block"></div>
+        	 	<div class="col-sm-2 col-md-2 col-lg-2"><img src="/content/brands/brand5.png" class="img-responsive center-block"></div>
+		</div>
+	</div>
+</section>

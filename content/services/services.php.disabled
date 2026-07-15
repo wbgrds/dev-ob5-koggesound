@@ -1,0 +1,33 @@
+<section id="services" class="services dark no-padding-bottom">
+	<div class="container">
+		<div class="row">
+       			<div class="col-md-12">
+				<p style="text-align: justify;"><strong>Wir bieten ma&szlig;geschneiderte digitale Dienstleistungen, die Ihre Online-Pr&auml;senz st&auml;rken und Ihr Zuhause oder B&uuml;ro intelligenter und vernetzter machen. </strong></p>
+			</div>
+                </div>
+		<div class="row multi-columns-row">
+			<div class="col-sm-4 col-md-4 col-lg-4 feature">
+				<h3>WEBGUARDS </h3>
+				<span class="fa fa-paint-brush featureicon"></span>
+				<p style="text-align: justify;">Mit unseren sicheren und leistungsstarken Hosting-L&ouml;sungen stellen wir sicher, dass Ihre Webseite zuverl&auml;ssig und schnell erreichbar ist - rund um die Uhr.</p>
+			</div>
+			<div class="col-sm-4 col-md-4 col-lg-4 feature">
+				<h3>SMARTHOME</h3>
+				<span class="fa fa-code featureicon"></span>
+				<p style="text-align: justify;">Wir integrieren modernste Smart-Home-Technologie in Ihr Zuhause, um Komfort, Sicherheit und Energieeffizienz zu steigern. Unsere L&ouml;sungen sind auf Ihre Bed&uuml;rfnisse zugeschnitten und erm&ouml;glichen eine nahtlose Steuerung aller Ger&auml;te.</p>
+			</div>
+			<div class="col-sm-4 col-md-4 col-lg-4 feature">
+				<h3>CONNECT</h3>
+				<span class="fa fa-bar-chart featureicon"></span>
+				<p style="text-align: justify;">Wir bieten ma&szlig;geschneiderte Telekommunikationsl&ouml;sungen f&uuml;r Unternehmen und Privatkunden, von VoIP-Telefonie bis hin zu umfassenden Netzwerkl&ouml;sungen, die Ihre Kommunikation effizienter gestalten.</p>
+			</div>
+		</div>
+                <div class="row margin-top-20">
+                	<div class="col-md-12">
+    				<p style="text-align: justify;"><strong>Mit unserer Expertise in diesen Bereichen schaffen wir L&ouml;sungen, die Ihre digitale und vernetzte Welt einfacher und sicherer machen. Vertrauen Sie auf uns - f&uuml;r eine bessere digitale Zukunft!
+    				Wir greifen bei unseren Services auf bekannte und kosteng&uuml;nstige Anbieter und Produkte zur&uuml;ck</strong></p>
+    			</div>
+		</div>
+        </div>
+</section>
+<!--services-->

@@ -1,0 +1,46 @@
+<section id="features" class="features lite ">
+	<div class="container">
+		<div class="row"></div>
+		<div class="row multi-columns-row">
+			<div class="col-sm-4 col-md-4 col-lg-4"><div class="feature">
+					<img src="/content/features/features6.png" class="img-responsive left-block" alt="features6">
+					<p> IONOS-VPS-Server bieten kosteneffiziente Leistung, flexible Ressourcenanpassung und volle Kontrolle durch Root-Zugriff. Er gew&auml;hrleistet h&ouml;here Sicherheit durch Isolation von anderen Nutzern und ist einfach skalierbar. Ideal f&uuml;r Unternehmen, die mehr Kontrolle und Stabilit&auml;t ben&ouml;tigen, ohne die Kosten eines dedizierten Servers.</p>
+				</div>
+			</div>
+
+			<div class="col-sm-4 col-md-4 col-lg-4">
+				<div class="feature">
+					<img src="/content/features/features5.png" class="img-responsive left-block" alt="features5">
+					<p>ist eine beliebte Smart-Home-Plattform, weil sie lokale Steuerung erm&ouml;glicht. Dies bietet einen h&ouml;here Datensicherheit und Datenschutz. Die Plattform unterst&uuml;tzt eine Vielzahl von Ger&auml;ten und Protokollen. Verschiedene Systeme k&ouml;nnen zentral gesteuert und verkn&uuml;pft werden.</p>
+				</div>
+			</div>
+			<div class="col-sm-4 col-md-4 col-lg-4">
+				<div class="feature">
+					<img src="/content/features/features1.png" class="img-responsive left-block" alt="features1">
+					<p>M&ouml;chtest du jederzeit erreichbar sein? Suchst du nach einer Alternative zum herk&ouml;mmlichen Festnetz-Anschluss und willst per VoIP telefonieren? Egal, ob f&uuml;r private oder gesch&auml;ftliche Zwecke: Die sipgate Angebote sind ideal f&uuml;r alle, die st&auml;ndig online und ansprechbar bleiben m&ouml;chten.</p>
+				</div>
+			</div>
+			<div class="col-sm-4 col-md-4 col-lg-4">
+				<div class="feature">
+					<img src="/content/features/features3.png" class="img-responsive left-block" alt="features3">
+					<p> erm&ouml;glicht effektive Zusammenarbeit in Echtzeit, bietet umfangreiche Sicherheitsfunktionen und nahtlose Integration von Tools wie Gmail und Google Drive. Mit gro&szlig;z&uuml;gigem Speicherplatz und einfacher Skalierbarkeit ist es die ideale cloud-basierte L&ouml;sung f&uuml;r Unternehmen, die Effizienz und Produktivit&auml;t steigern wollen.</p>
+				</div>
+			</div>
+			<div class="col-sm-4 col-md-4 col-lg-4"><div class="feature">
+					<img src="/content/features/features4.png" class="img-responsive left-block" alt="features4">
+					<p>Shelly-Ger&auml;te werden genutzt, weil sie von Allterco Robotics (Bulgarien) stammen und den europ&auml;ischen Datenschutzstandards (DSGVO) entsprechen. Sie bieten Sicherheit, sind vielseitig einsetzbar und arbeiten ohne Cloud, was den lokalen Betrieb erm&ouml;glicht.</p>
+				</div>
+			</div>
+			<div class="col-sm-4 col-md-4 col-lg-4">
+				<div class="feature">
+					<img src="/content/features/features2.png" class="img-responsive left-block" alt="features2">
+					<p>ist eine vollst&auml;ndig softwarebasierte L&ouml;sung, die Ihnen zahlreiche Vorteile gegen&uuml;ber propriet&auml;ren Hardware-Appliances bietet. Sie ist einfacher zu verwalten und l&auml;sst sich besser skalieren. Installieren Sie sie einfach auf einem bestehenden Server und virtualisieren Sie die Anwendung nach Bedarf.</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+
